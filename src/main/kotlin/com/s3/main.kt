@@ -1,8 +1,4 @@
-package com.example
-
-import aws.sdk.kotlin.runtime.auth.credentials.ProfileCredentialsProvider
-import aws.sdk.kotlin.services.dynamodb.DynamoDbClient
-import aws.sdk.kotlin.services.dynamodb.model.CreateTableRequest
+package com.s3
 
 import aws.sdk.kotlin.services.s3.*
 import aws.sdk.kotlin.services.s3.model.BucketLocationConstraint

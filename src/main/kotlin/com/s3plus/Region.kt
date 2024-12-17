@@ -1,4 +1,4 @@
-package com.example2
+package com.s3plus
 
 enum class Region(val description: String) {
     usｰeastｰ2("US East (Ohio)"),

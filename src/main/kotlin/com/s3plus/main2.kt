@@ -1,14 +1,8 @@
-package com.example2
+package com.s3plus
 
-import aws.sdk.kotlin.services.s3.*
 import aws.sdk.kotlin.services.s3.model.BucketLocationConstraint
-import aws.sdk.kotlin.services.s3.model.CreateBucketRequest
-import aws.sdk.kotlin.services.s3.model.GetObjectRequest
-import aws.smithy.kotlin.runtime.content.*
-import com.example.KEY
+import com.s3.KEY
 import kotlinx.coroutines.runBlocking
-import java.io.File
-import java.nio.file.Path
 import java.util.UUID
 
 //val REGION = "us-west-2"

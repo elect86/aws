@@ -1,4 +1,4 @@
-package com.example2
+package com.s3plus
 
 import aws.sdk.kotlin.services.s3.createBucket
 import aws.sdk.kotlin.services.s3.deleteBucket

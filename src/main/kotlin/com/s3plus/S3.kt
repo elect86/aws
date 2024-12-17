@@ -1,4 +1,4 @@
-package com.example2
+package com.s3plus
 
 import aws.sdk.kotlin.services.s3.S3Client
 import aws.sdk.kotlin.services.s3.model.CreateBucketRequest
